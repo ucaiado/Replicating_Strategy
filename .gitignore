@@ -1,0 +1,9 @@
+.directory
+.DS_Store
+*.pyc
+*~
+\#*
+.\#*
+*\(Autosaved\)*
+.ipynb_checkpoints/
+*.log
